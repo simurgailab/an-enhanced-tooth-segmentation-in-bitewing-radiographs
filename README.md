@@ -8,7 +8,7 @@ Bitewing radiographic imaging is an excellent diagnostic tool for detecting cari
 
 <figure>
 <p align="center">
-    <img src="Model.png">
+    <img src="Model.jpg">
 </p>
 <figcaption align="center"><b>Figure 1: System architecture and model pipeline workflow - graphical abstract</b></figcaption>
 </figure>
