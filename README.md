@@ -33,7 +33,7 @@ Tekin, B. Y., Ozcan, C., Pekince, A., & Yasa, Y. (2022). An enhanced tooth segme
 
 # Request Full Paper
 
-Please click to access the conference paper; https://www.researchgate.net/publication/360235098_An_enhanced_tooth_segmentation_and_numbering_according_to_FDI_notation_in_bitewing_radiographs
+Please click to access the academic paper; https://www.researchgate.net/publication/360235098_An_enhanced_tooth_segmentation_and_numbering_according_to_FDI_notation_in_bitewing_radiographs
 
 To receive the original full text of the article, please send an e-mail to bytekin@kastamonu.edu.tr. Your email must be sent from a legitimate corporate account and contain the following text (copy and paste the text below into the required fields):
 
